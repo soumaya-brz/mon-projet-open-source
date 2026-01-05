@@ -1,23 +1,18 @@
-# Nouvelle issue
+# Description de la Pull Request
 
-Merci de prendre le temps de créer une issue.  
-Veuillez remplir les sections ci-dessous pour nous aider à résoudre le problème.
+Merci pour votre contribution !  
+Veuillez remplir les sections ci-dessous avant de soumettre votre PR.
 
-## Type d’issue
-- [ ] Bug
-- [ ] Amélioration
-- [ ] Question
+## Type de PR
+- [ ] Correction de bug
+- [ ] Nouvelle fonctionnalité
+- [ ] Mise à jour de documentation
 
 ## Description
-Expliquez clairement le problème ou l’amélioration proposée.
+Expliquez vos changements en détail.
 
-## Étapes pour reproduire le bug (si applicable)
-1. 
-2. 
-3. 
+## Vérification
+- [ ] J’ai testé mes modifications localement
+- [ ] Tous les tests passent
+- [ ] J’ai mis à jour la documentation si nécessaire
 
-## Comportement attendu
-Expliquez ce que vous attendiez.
-
-## Capture d’écran / Logs
-Ajoutez des captures d’écran ou des logs si nécessaire.
